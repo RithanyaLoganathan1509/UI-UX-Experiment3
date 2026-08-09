@@ -11,19 +11,19 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
   4)Noted that Flipkart has a feature-rich interface while Meesho focus on simplicity and low-cost listings.
   5)Found that Hanabana can improve by using clearer category filtering and smoother user flow.
 
-2. Perform Heuristic Evaluation
+3. Perform Heuristic Evaluation
   1)Checked Flipkart, Meesho, and Hanabana using usability principles.
   2)Evaluated consistency, visibility, error prevention, and feedback.
   3)Flipkart showed high consistency; Meesho showed easy navigation for budget shoppers.
   4)Hanabana needs better visual hierarchy in the hero section and simpler navigation menu options.
 
-3. Analyze and Document Findings
+4. Analyze and Document Findings
   1)Collected all comparison and evaluation data.
   2)Listed strengths and weaknesses of each platform.
   3)Flipkart has strong user experience and fast access to multiple categories.
   4)Hanabana needs improvement in placement of "Shop Now" buttons and product category visibility.
 
-4. Propose and Apply Improvements
+5. Propose and Apply Improvements
   1)Planned layout changes for Hanabana based on findings.
    2)Simplified navigation and made login/signup buttons more visible.
   3)Used better color contrast and improved font readability for the brand tagline.
