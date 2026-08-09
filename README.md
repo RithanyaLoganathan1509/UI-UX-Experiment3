@@ -5,11 +5,11 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
 
 ## Algorithm:
 1. Select and Compare 2-3 Competitor Apps/Websites
-  1)Selected competitors: Flipkart and Meesho.
-  2)Compared them with my own website, Hanabana.
-  3)Observed their design, navigation, color usage, and content layout.
-  4)Noted that Flipkart has a feature-rich interface while Meesho focus on simplicity and low-cost listings.
-  5)Found that Hanabana can improve by using clearer category filtering and smoother user flow.
+  1.Selected competitors: Flipkart and Meesho.
+  2.Compared them with my own website, Hanabana.
+  3.Observed their design, navigation, color usage, and content layout.
+  4.Noted that Flipkart has a feature-rich interface while Meesho focus on simplicity and low-cost listings.
+  5.Found that Hanabana can improve by using clearer category filtering and smoother user flow.
 
 3. Perform Heuristic Evaluation
   1)Checked Flipkart, Meesho, and Hanabana using usability principles.
