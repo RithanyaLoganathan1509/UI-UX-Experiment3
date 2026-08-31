@@ -29,21 +29,21 @@ My Website:
   Noted that Flipkart has a feature-rich interface while Meesho focus on simplicity and low-cost listings.
   
   Found that my website can improve by using clearer category filtering and smoother user flow.
-2. Checked Flipkart, Meesho, and my website using usability principles.
+  2. Checked Flipkart, Meesho, and my website using usability principles.
   
   Evaluated consistency, visibility, error prevention, and feedback.
   
   Flipkart showed high consistency; Meesho showed easy navigation for budget shoppers.
   
   My website needs better visual hierarchy in the hero section and simpler navigation menu options.
-3. Collected all comparison and evaluation data.
+  3. Collected all comparison and evaluation data.
   
   Listed strengths and weaknesses of each platform.
   
   Flipkart has strong user experience and fast access to multiple categories.
   
   My website needs improvement in placement of "Order Now" buttons and product category visibility.
-4. Planned layout changes for my website based on findings.
+  4. Planned layout changes for my website based on findings.
   
   Simplified navigation and made login/signup buttons more visible.
   
