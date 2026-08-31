@@ -14,9 +14,12 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
   
 ## Output:
 Selected competitors:
+
 <img width="1032" height="457" alt="image" src="https://github.com/user-attachments/assets/ed7e542a-f315-4740-8931-82380ec3288c" />
 <img width="1056" height="545" alt="image" src="https://github.com/user-attachments/assets/f5c41b52-7fcf-47a4-aed9-7544f0b6e720" />
+
 My Website:
+
 <img width="1894" height="1016" alt="Screenshot 2025-12-19 193734" src="https://github.com/user-attachments/assets/aa04985f-a8fa-49ce-ab87-39302a756900" />
 
 1. Selected competitors: Flipkart and Meesho.
